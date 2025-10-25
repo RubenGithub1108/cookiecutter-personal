@@ -29,7 +29,7 @@
 ```
 
 ## Requirements
-Python {{ cookiecutter.version_python }}
+Python {{ cookiecutter.python_version }}
 
 ## Licencia
 {{ cookiecutter.open_source_license }}
