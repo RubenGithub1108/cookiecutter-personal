@@ -30,6 +30,3 @@
 
 ## Requirements
 Python {{ cookiecutter.python_version }}
-
-## Licencia
-{{ cookiecutter.open_source_license }}
