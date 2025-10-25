@@ -1,0 +1,8 @@
+{
+    "project_title": "Mi Proyecto Cookiecutter",
+    "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "Plantilla base para proyectos de ciencia de datos.",
+    "project_author_name": "Tu Nombre",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.13"
+}
