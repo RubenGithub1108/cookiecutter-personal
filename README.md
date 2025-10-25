@@ -10,6 +10,8 @@ Este repositorio contiene una plantilla de Cookiecutter para proyectos de cienci
 
 ## Estructura del Proyecto
 
+Una vez que utilices esta plantilla para crear un proyecto, la estructura de tu repositorio será la siguiente:
+
 ```
 ├── data/
 │   ├── raw/              # Datos crudos originales
@@ -33,8 +35,8 @@ Este repositorio contiene una plantilla de Cookiecutter para proyectos de cienci
 1. Clona o descomprime la plantilla:
 
 ```bash
-git clone https://github.com/tuusuario/cookiecutter-mlops-template.git
-cd cookiecutter-mlops-template
+git clone https://github.com/RubenGithub1108/cookiecutter-personal.git
+cd cookiecutter-personal
 ```
 
 2. Genera un nuevo proyecto:

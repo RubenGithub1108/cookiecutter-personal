@@ -28,16 +28,8 @@
 └── environment.yml       # Dependencias conda
 ```
 
-## Cómo usar la plantilla
+## Requirements
+Python {{ cookiecutter.version_python }}
 
-1. Clona o descomprime la plantilla:
-
-```bash
-git clone https://github.com/tuusuario/cookiecutter-mlops-template.git
-cd cookiecutter-mlops-template
-```
-
-2. Genera un nuevo proyecto:
-```bash
-cookiecutter .
-```
+## Licencia
+{{ cookiecutter.open_source_license }}
